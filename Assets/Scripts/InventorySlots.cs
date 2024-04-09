@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class InventorySlots : MonoBehaviour
 {
-    public ScriptableItem slotItem;
+    /*public ScriptableItem slotItem;
 
     public int slotNumber;
 
@@ -62,5 +62,5 @@ public class InventorySlots : MonoBehaviour
         deleteButton.onClick.RemoveListener(RemoveItem);
 
         inspectionWindow.SetActive(false);
-    }
+    }*/
 }

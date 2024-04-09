@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class InventoryManager : MonoBehaviour
 {
-    public static InventoryManager instance;
+    /*public static InventoryManager instance;
 
     public ScriptableItem[] weapons;
 
@@ -36,5 +36,5 @@ public class InventoryManager : MonoBehaviour
                 return;
             }
         }
-    }
+    }*/
 }

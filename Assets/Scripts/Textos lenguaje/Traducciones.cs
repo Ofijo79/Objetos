@@ -2,25 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PickableItem : MonoBehaviour
+public class Traducciones : MonoBehaviour
 {
-    /*public ScriptableItem item;
+    public Lenguaje item;
 
     SpriteRenderer spriteRenderer;
     // Start is called before the first frame update
-    void Awake()
+    void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    void Start()
+    // Update is called once per frame
+    void Update()
     {
         spriteRenderer.sprite = item.itemSprite;
     }
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        InventoryManager.instance.AddItem(item);
-        Destroy(this.gameObject);    
-    }*/
 }
