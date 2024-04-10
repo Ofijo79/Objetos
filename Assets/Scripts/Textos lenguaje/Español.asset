@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4763cb3c888a65d42b02cccf61a64aec, type: 3}
+  m_Name: "Espa\xF1ol"
+  m_EditorClassIdentifier: 
+  texto1: "Vuelo', Mercede' No te confunda', andas con el nene Viajando, grabando,
+    dejando mi huella en todo' lo' hotele'  Quieren, no pueden Llegamo' rompiendo,
+    as\xED que to's frenen Reale' lo' m\xEDo' siempre, hasta la muerte,"
+  texto2: ' ando con los fiele''  Vuelo'', Mercede'' No te confunda'', andas con
+    el nene Viajando, grabando,'
+  texto3: ' dejando mi huella en todo'' lo'' hotele''  Quieren, no pueden Llegamo''
+    rompiendo,'
+  texto4: " as\xED que to's frenen Reale' lo' m\xEDo' siempre, hasta la muerte, ando
+    con los fiele'"
