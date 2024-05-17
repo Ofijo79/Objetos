@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class InventoryManager : MonoBehaviour
 {
-    /*public static InventoryManager instance;
+    public static InventoryManager instance;
 
     public ScriptableItem[] weapons;
 
@@ -13,7 +13,7 @@ public class InventoryManager : MonoBehaviour
 
     public Image[] weaponsSprites;
 
-    public InventorySlots[] weaponSlots;
+    //public InventorySlots[] weaponSlots;
 
     void Awake()
     {
@@ -30,11 +30,9 @@ public class InventoryManager : MonoBehaviour
                 weaponsNames[i].text = item.itemName;
                 weaponsSprites[i].sprite = item.itemSprite;
 
-                weaponSlots[i].slotItem = item;
-                weaponSlots[i].slotNumber = i;
 
                 return;
             }
         }
-    }*/
+    }
 }

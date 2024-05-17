@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PickableItem : MonoBehaviour
 {
-    /*public ScriptableItem item;
+    public ScriptableItem item;
 
     SpriteRenderer spriteRenderer;
     // Start is called before the first frame update
@@ -22,5 +22,5 @@ public class PickableItem : MonoBehaviour
     {
         InventoryManager.instance.AddItem(item);
         Destroy(this.gameObject);    
-    }*/
+    }
 }
